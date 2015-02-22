@@ -1,3 +1,5 @@
+# Battleship
+
 The puzzle game "Battleship" for two players.
 
 It was created with Racket language. Racket is a multi-paradigm programming language in the Lisp/Scheme family. See http://en.wikipedia.org/wiki/Racket_(programming_language) for more information.

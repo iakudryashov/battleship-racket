@@ -8,7 +8,7 @@ It was created with Racket language. Racket is a multi-paradigm programming lang
 
 2) Run "DrRacket" from the folder where Racket installed
 
-3) Go to Language -> Choose Language... and choose "The Racket Laguage"
+3) Go to Language -> Choose Language... and choose "The Racket Language"
 
 4) Go to File -> Open... and choose game.scm
 
